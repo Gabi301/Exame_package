@@ -1,9 +1,0 @@
-setup.py
-Exame_package/__init__.py
-Exame_package/mod1.py
-Exame_package.egg-info/PKG-INFO
-Exame_package.egg-info/SOURCES.txt
-Exame_package.egg-info/dependency_links.txt
-Exame_package.egg-info/top_level.txt
-Exame_package/level2/__init__.py
-Exame_package/level2/mod2.py
